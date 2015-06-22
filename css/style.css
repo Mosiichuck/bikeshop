@@ -524,6 +524,7 @@ ul.nav li.dropdown:hover ul.dropdown-menu {
 	.navbar-toggle{
 		position: relative;
 		top: 20px;
+		float: right;
 	}
 }
 
